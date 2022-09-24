@@ -18,7 +18,7 @@ This tiny Flux Capacitor is controlled by a Microchip ATtiny1616 microcontroller
 
 Below you can see the thickness comparison of V3 on the left and V4 on the right.
 
-![ V3 vs V4](https://github.com/hojadurdy/Flux_Capacitor_Micro/blob/main/Photo/Transparent_Background/v3v4.png?raw=true" V3 vs V4")
+![ V3 vs V4](https://github.com/hojadurdy/Flux_Capacitor_Micro/blob/main/Photo/Transparent_Background/v3v4.png?raw=true " V3 vs V4")
 
 ### HOW LONG WILL THE BATTERY LAST?
 
