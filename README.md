@@ -36,7 +36,7 @@ LIR2016 (Rechargeable) with average of 20 mAh battery capacity.
 
 To begin with, turn on the device by pressing power button. In order to enter settings mode just hold the set button for 1 second. If all of the LEDs flashes twice, you are successfully entered settings mode. 
 
-![BUTTONS](https://github.com/hojadurdy/Flux_Capacitor_Micro/blob/main/Photo/Transparent_Background/back1.png?raw=true " BUTTONS")
+![BUTTONS](https://github.com/hojadurdy/Flux_Capacitor_Micro/blob/main/Photo/Transparent_Background/back2.png?raw=true " BUTTONS")
 
 After the LEDs flash you will see that only single LED remains on. That single LED shows which animation is selected. To change that, just short press the set button and the LED should start shifting from inner to outer LED with each press. After selecting the preferred animation, hold the set button for 1 second to save. LEDs should flash twice to confirm.
 
