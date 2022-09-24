@@ -49,3 +49,5 @@ LEDs start to animate faster with much brighter center beam as shown in the vide
 
 ### P.S.
 **Only CR2016 or LIR2016 batteries are compatible. If you prefer to use larger CR2032 or LIR2032 batteries, message me from store page. I will change the battery holder to a larger one. Also batteries are not included due to shipping restrictions.**
+
+<a href="https://www.tindie.com/stores/curiousdesignlabs/?ref=offsite_badges&utm_source=sellers_Hojadurdy&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
